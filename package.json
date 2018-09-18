@@ -1,11 +1,11 @@
 {
-    "name": "datatables.net-buttons",
+    "name": "ouanalyse-datatables.net-buttons-html5",
     "version": "1.5.3",
     "description": "Buttons for DataTables ",
     "files": [
         "js/**/*.js"
     ],
-    "main": "js/dataTables.buttons.js",
+    "main": "js/buttons.html5.js",
     "keywords": [
         "buttons",
         "excel",
